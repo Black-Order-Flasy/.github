@@ -1,4 +1,4 @@
-## Hello everyone, We are the Black Order Team👋:
+## Hello everyone, We are the Black Order Team👋
 A passionate team from Polytechnic State Ujung Pandang
 
 ![Banner](img.png)
